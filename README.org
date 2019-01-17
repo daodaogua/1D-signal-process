@@ -8,7 +8,7 @@
 
 - ResNet
 - DenseNet
-
+- Siamese+triple
 
 *** RNNModel
 
