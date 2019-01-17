@@ -1,6 +1,7 @@
-#+title 一维数据处理包
-#+author Qiang
-#+tag tensorflow pytorch
+#+title: 一维数据处理包
+#+author: Qiang
+#+date: <2019-01-17 四>
+#+language: tensorflow pytorch
 
 
 *** ConvModel
