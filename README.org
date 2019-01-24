@@ -27,4 +27,4 @@
 - DPPO
 
 *** 工具包模块
-    - [['./structure.png']]
+    - [[./structure.png]]
